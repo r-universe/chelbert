@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DiceDesign"]
+	path = DiceDesign
+	url = https://github.com/cran/DiceDesign
+	shallow = true
+	registered = true
+[submodule "DiceEval"]
+	path = DiceEval
+	url = https://github.com/cran/DiceEval
+	shallow = true
+	registered = true
